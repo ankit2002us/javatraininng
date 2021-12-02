@@ -9,7 +9,7 @@ public class FindDuplicates {
 		String myInputString = "this is the first string tring";
 		
 		printduplicates(myInputString);
-
+//This comment is newly added
 	}
 
 	private static void printduplicates(String myInputString) {
