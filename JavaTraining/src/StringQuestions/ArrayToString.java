@@ -6,7 +6,7 @@ public class ArrayToString {
 	
 	public static void main(String[] args) {
 		
-		String[] stringArray = {"My", "name", "is","Jain"};
+		String[] stringArray = {"My", "name", "is","ANkit","Jain"};
 		
 		String string1 = convertArrayToStringUsingToString(stringArray);
         System.out.println("An array converted to string using Arrays.toString(): " + string1);
